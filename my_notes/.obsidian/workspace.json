@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/08.10.2025.md",
+                "file": "Daily/09.10.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08.10.2025"
+              "title": "09.10.2025"
             }
           }
         ],
@@ -186,10 +186,11 @@
   },
   "active": "05cd0155c4b9094b",
   "lastOpenFiles": [
-    "Проекты/Untitled.md",
-    "Daily/08.10.2025.md",
-    "Templates/project.md",
     "Templates/daily.md",
+    "Daily/09.10.2025.md",
+    "Daily/08.10.2025.md",
+    "Проекты/Untitled.md",
+    "Templates/project.md",
     "Daily/07.10.2025.md",
     "Проекты",
     "Welcome.md",
