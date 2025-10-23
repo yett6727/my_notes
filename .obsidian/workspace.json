@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новелла/Глава 2.md",
+                "file": "Новелла/Глава 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 2"
+              "title": "Глава 3"
             }
           },
           {
@@ -27,16 +27,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новелла/Глава 3.md",
+                "file": "Daily/23.10.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 3"
+              "title": "23.10.2025"
+            }
+          },
+          {
+            "id": "4ffc7b07696ae080",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,21 +193,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "ed3f30673f51af5d",
+  "active": "43c90ce60404c001",
   "lastOpenFiles": [
-    "Новелла/Глава 2.md",
+    "Daily/23.10.2025.md",
     "Новелла/Глава 3.md",
+    "Новелла/Глава 2.md",
+    "Daily/09.10.2025.md",
+    "Daily/08.10.2025.md",
+    "Templates/daily.md",
     "Новелла/Глава 1.md",
     "Новелла/Новелла Home.md",
-    "Templates/daily.md",
     "Проекты/Untitled.md",
     "Pasted image 20251012144810.png",
     "Templates/Untitled.md",
-    "Daily/09.10.2025.md",
     "Daily/10.10.2025.md",
     "Новелла",
     "Templates/project.md",
-    "Daily/08.10.2025.md",
     "Daily/07.10.2025.md",
     "Проекты",
     "Welcome.md",
