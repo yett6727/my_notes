@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Новелла/Глава 4.md",
+                "file": "Новелла/Обрывки/Марк погрузился в мысли.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Глава 4"
+              "title": "Марк погрузился в мысли"
+            }
+          },
+          {
+            "id": "0e0edb8d61ba5c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Новелла/Обрывки/Вдруг весь мир сжался до одной точки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вдруг весь мир сжался до одной точки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,24 +185,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "ae51bfc51a0d313d",
+  "active": "0e0edb8d61ba5c46",
   "lastOpenFiles": [
-    "Новелла/Глава 3.md",
-    "Новелла/Глава 4.md",
-    "Новелла/Новелла Home.md",
-    "Home.md",
-    "Daily/09.11.2025.md",
+    "Новелла/Обрывки/Марк погрузился в мысли.md",
+    "Новелла/Обрывки/Вдруг весь мир сжался до одной точки.md",
     "Daily/26.10.2025.md",
+    "Daily/23.10.2025.md",
+    "Daily/16.11.2025.md",
+    "Daily/09.11.2025.md",
+    "Daily/09.10.2025.md",
+    "Daily/08.10.2025.md",
+    "Проекты/Untitled.md",
+    "Новелла/Новелла Home.md",
+    "Новелла/Глава 2.md",
+    "Новелла/Глава 4.md",
+    "Новелла/Глава 3.md",
+    "Home.md",
     "Templates/project.md",
     "Templates/daily.md",
-    "Daily/08.10.2025.md",
-    "Daily/09.10.2025.md",
-    "Daily/23.10.2025.md",
     "Новелла/Глава 1.md",
-    "Новелла/Обрывки/Марк погрузился в мысли.md",
-    "Новелла/Глава 2.md",
     "Новелла/Обрывки",
-    "Проекты/Untitled.md",
     "Pasted image 20251012144810.png",
     "Templates/Untitled.md",
     "Daily/10.10.2025.md",
